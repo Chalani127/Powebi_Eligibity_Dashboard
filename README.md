@@ -10,17 +10,8 @@ This Power BI dashboard evaluates candidate eligibility for an MBA program. It a
 - Interactive filtering for region, qualification, and experience  
 
 ## Dataset
-- Source: Internal academic dataset (anonymized)  
+- Source: Internal academic dataset 
 - Includes candidate academic records, work experience, and other eligibility criteria
-
-## How to Use
-1. Download the `.pbix` file from [Google Drive link]  
-2. Open in **Power BI Desktop**  
-3. Use filters to explore eligibility criteria and candidate data
-
-## Screenshots
-![Experience Calculation](screenshots/experience_calculation.png)  
-![Eligibility Visualization](screenshots/eligibility_visuals.png)  
 
 ## Tools Used
 - Microsoft Power BI  
